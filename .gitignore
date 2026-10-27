@@ -1,0 +1,5 @@
+orfao
+zumbi
+*.o
+.zig-cache/
+zig-out/
